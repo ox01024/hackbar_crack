@@ -26,5 +26,7 @@ chrome版本需解压使用
 
 ### 2.3.1_0
 
-[chrome去激活版本Download](/2.3.1.0/hackbar_chrome.zip)
-[firefox去激活版本Download](/2.3.1.0/hackbar-2.3.1-fx.xpi)
+[chrome去激活版本Download](/Releases/2.3.1.0/hackbar_chrome.zip)
+
+[firefox去激活版本Download](/Releases/2.3.1.0/hackbar-2.3.1-fx.xpi)
+
